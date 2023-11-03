@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 <details open>
 <summary>Holopin's Badges</summary>
 <a href="#">
+
 [![An image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunnyunik)](https://holopin.io/@sunnyunik)
 </a>
+
 </details>
