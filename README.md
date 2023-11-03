@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <ul>
-    <li>🌱 I’m currently learning nextjs & graphql </li>
+    <li>🌱 I’m currently learning next.js & graphql </li>
     <li>🔭 Currently I work on random projects in my free time</li>
     <li>💬 Ask me about web development</li>
     <li>⚡ Fun fact: Linus Torvalds created Git, naming it "Git" as a pun on "idiot".</li>
@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 <details>
 <summary>Github Trophies</summary>
 
-![An image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://github-profile-trophy.vercel.app/?username=sunny-unik&theme=onedark)
+![An image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://github-profile-trophy.vercel.app/?username=sunny-unik&theme=onestar&title=Joined2020,Commits,PR,Repositories,Experience,Issues,Reviews)
 
 </details>
