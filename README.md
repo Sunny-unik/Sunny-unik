@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 
 ### Tools & Languages
 
-![An image of my skill icons](https://skillicons.dev/icons?i=git,vscode,bootstrap,tailwind,js,nodejs,ts,react,redux,nextjs,jest,mongo,postman,vercel,netlify)
+![Image of my skill icons](https://skillicons.dev/icons?i=git,vscode,bootstrap,tailwind,js,nodejs,ts,react,redux,nextjs,jest,mongo,postman,vercel,netlify)
 
 <details open>
 <summary>Github Streak</summary>
 <br/>
 <div align="center">
 
-![Github Streak & Stats](https://github-readme-streak-stats.herokuapp.com/?user=sunny-unik&theme=cobalt)
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunny-unik&theme=cobalt)
 
 </div>
 </details>
@@ -45,15 +45,15 @@ Here are some ideas to get you started:
 <details open>
 <summary>Holopin's Badges</summary>
 
-[![An image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunnyunik)](https://holopin.io/@sunnyunik)
+[![Image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunnyunik)](https://holopin.io/@sunnyunik)
 
 </details>
 <br/>
 
 <details>
-<summary>Contribution Graph</summary>
+<summary>Github Activity Graph</summary>
 
-![An image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://github-readme-activity-graph.vercel.app/graph?username=sunny-unik&theme=rogue&custom_title=Last%20Month%20Contribution%20Graph)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunny-unik&theme=rogue&custom_title=Last%20Month%20Contribution%20Graph)
 
 </details>
 <br/>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <details>
 <summary>Github Stats</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny-unik&hide=stars&show_icons=true&theme=radical&rank_icon=github&show_owner=true&show=prs_merged_percentage,prs_merged)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny-unik&hide=stars&show_icons=true&theme=radical&rank_icon=github&show_owner=true&show=prs_merged_percentage,prs_merged)
 
 </details>
 <br/>
@@ -69,6 +69,17 @@ Here are some ideas to get you started:
 <details>
 <summary>Github Trophies</summary>
 
-![An image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://github-profile-trophy.vercel.app/?username=sunny-unik&theme=onestar&title=Joined2020,Commits,PR,Repositories,Experience,Issues,Reviews)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=sunny-unik&theme=onestar&title=Joined2020,Commits,PR,Repositories,Experience,Issues,Reviews)
+
+</details>
+<br/>
+
+<details>
+<summary>Wakatime Stats</summary>
+<br/>
+
+![Wakatime Stats](https://wakatime.com/share/@SunnyUnik/4a25fe81-d599-4b5e-a441-5249d41756eb.svg)
+
+![Wakatime Language Stats](<https://github-readme-stats.vercel.app/api/wakatime?username=Sunnyunik&theme=tokyonight&custom_title=Wakatime%20Language%20Stats%20(last%20week)&layout=compact>)
 
 </details>
