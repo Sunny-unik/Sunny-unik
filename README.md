@@ -32,6 +32,14 @@ Here are some ideas to get you started:
 ![Image of my skill icons](https://skillicons.dev/icons?i=git,vscode,bootstrap,tailwind,js,nodejs,ts,react,redux,nextjs,jest,mongo,postman,vercel,netlify)
 
 <details open>
+<summary>Holopin's Badges</summary>
+
+[![Image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunnyunik)](https://holopin.io/@sunnyunik)
+
+</details>
+<br/>
+
+<details>
 <summary>Github Streak</summary>
 <br/>
 <div align="center">
@@ -39,14 +47,6 @@ Here are some ideas to get you started:
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunny-unik&theme=cobalt)
 
 </div>
-</details>
-<br/>
-
-<details open>
-<summary>Holopin's Badges</summary>
-
-[![Image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunnyunik)](https://holopin.io/@sunnyunik)
-
 </details>
 <br/>
 
