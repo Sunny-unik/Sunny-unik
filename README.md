@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 <ul>
     <li>🌱 I’m currently learning next.js & graphql </li>
-    <li>🔭 Currently I work on random projects in my free time</li>
+    <li>🔭 Currently I make contributions to open-source in my free time</li>
     <li>💬 Ask me about web development</li>
     <li>⚡ Fun fact: Linus Torvalds created Git, naming it "Git" as a pun on "idiot".</li>
 </ul>
@@ -30,6 +30,20 @@ Here are some ideas to get you started:
 ### Tools & Languages
 
 ![Image of my skill icons](https://skillicons.dev/icons?i=git,vscode,bootstrap,tailwind,js,nodejs,ts,react,redux,nextjs,jest,mongo,postman,vercel,netlify)
+
+<details open>
+<summary>Ongoing Open-Source Initiatives</summary>
+<br/>
+<div align="center">
+
+  <div style="display: flex; align-items: stretch;" align="left">
+    <a  style="margin: 4px; href="https://github.com/Sunny-unik/urlbit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=urlbit&theme=dracula&icon_color=F8D866" alt="readme-typing-svg"></a>
+    <a  style="margin: 4px; href="https://github.com/Sunny-unik/docker-node-server"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=docker-node-server&theme=dracula&icon_color=F8D866" alt="readme-typing-svg"></a>
+  </div>
+
+</div>
+</details>
+<br/>
 
 <details open>
 <summary>Holopin's Badges</summary>
