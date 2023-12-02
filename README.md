@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 <summary>Github Stats</summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny-unik&hide=stars&show_icons=true&theme=radical&rank_icon=github&show_owner=true&show=prs_merged_percentage,prs_merged)
+![Profile Views Count](https://komarev.com/ghpvc/?username=sunny-unik)
 
 </details>
 <br/>
