@@ -1,11 +1,8 @@
 [![Greeting SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3800&pause=1200vCenter=true&random=false&width=435&lines=Hello%F0%9F%91%8B%2C+I'm+Sunny)](https://git.io/typing-svg)
 
 <!--
-**Sunny-unik/Sunny-unik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
 -->
 
 <ul>
