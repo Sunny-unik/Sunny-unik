@@ -33,6 +33,7 @@
 <br/>
 <div>
 
+  <a href="https://github.com/Sunny-unik/node-auth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=node-auth&theme=dracula&icon_color=F8D866" alt="project-svg"></a>
   <a href="https://github.com/Sunny-unik/urlbit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=urlbit&theme=dracula&icon_color=F8D866" alt="project-svg"></a>
   <a href="https://github.com/Sunny-unik/docker-node-server"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=docker-node-server&theme=dracula&icon_color=F8D866" alt="project-svg"></a>
 
