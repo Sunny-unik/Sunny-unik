@@ -10,17 +10,19 @@
 - 💬 Ask me about web development
 - ⚡ Fun fact: Linus Torvalds created Git, naming it "Git" as a pun on "idiot"
 
-### How to reach me 📫
+## How to reach me 📫
 
 [![Twitter Link](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sunnyunik/)
 [![DevTo Link](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sunny_dev)
 [![Instagram Link](<https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=rgb(266,50,75)>)](https://www.instagram.com/sunny.gandhwani/)
-[![Facebook Link](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sunny.gandhwani)
 [![Linkedin Link](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunny-gandhwani-b4b6ab20b/)
+[![Facebook Link](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sunny.gandhwani)
 
-### Tools & Languages
+## Tools & Languages
 
 ![Image of my skill icons](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,react,redux,vscode,git,nextjs,ts,nodejs,jest,webpack,mongo,graphql,docker,linux,postman,netlify,vercel)
+
+---
 
 <details open>
 <summary>Ongoing Open-Source Initiatives</summary>
@@ -51,13 +53,13 @@
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunny-unik&theme=dracula)
 
 </div>
+</details>
+<br/>
+
 <details>
 <summary>Holopin's Badges</summary>
 
 [![Image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunnyunik)](https://holopin.io/@sunnyunik)
-
-</details>
-<br/>
 
 </details>
 <br/>
