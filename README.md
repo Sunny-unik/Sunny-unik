@@ -21,7 +21,7 @@
 
 ## Tools & Languages
 
-![Image of my skill icons](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,react,redux,vscode,git,nextjs,ts,nodejs,jest,webpack,mongo,graphql,docker,linux,postman,netlify,vercel)
+[![Image of my skill icons](https://skillicons.dev/icons?i=html,css,js,sass,tailwind,bootstrap,react,redux,vscode,git,nextjs,ts,nodejs,jest,webpack,mongo,graphql,docker,linux,postman,netlify,vercel)](https://sunny-unik.github.io/glimpse#skills)
 
 ---
 
