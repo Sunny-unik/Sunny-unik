@@ -12,6 +12,7 @@
 
 ## How to reach me 📫
 
+[![Link to My Portfolio](https://img.shields.io/badge/Link%20to%20My%20Portfolio-8A2BE2?style=for-the-badge)](https://sunny-unik.github.io/)
 [![Twitter Link](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sunnyunik/)
 [![DevTo Link](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/sunny_dev)
 [![Instagram Link](<https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=rgb(266,50,75)>)](https://www.instagram.com/sunny.gandhwani/)
