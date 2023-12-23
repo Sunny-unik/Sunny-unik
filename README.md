@@ -58,14 +58,6 @@
 <br/>
 
 <details>
-<summary>Holopin's Badges</summary>
-
-[![Image of @sunnyunik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sunnyunik)](https://holopin.io/@sunnyunik)
-
-</details>
-<br/>
-
-<details>
 <summary>Github Activity Graph</summary>
 
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunny-unik&theme=rogue&custom_title=Last%20Month%20Contribution%20Graph)
