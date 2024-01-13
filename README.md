@@ -30,9 +30,9 @@
 <br/>
 <div>
 
-<a href="https://github.com/Sunny-unik/docs-eu-country-check"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=docs-eu-country-check&theme=dracula&icon_color=F8D866" alt="project-svg"></a>
-<a href="https://github.com/Sunny-unik/node-auth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=node-auth&theme=dracula&icon_color=F8D866" alt="project-svg"></a>
+<a href="https://github.com/Sunny-unik/medical-marketing"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=medical-marketing&theme=dracula&icon_color=F8D866" alt="project-svg"></a>
 <a href="https://github.com/Sunny-unik/urlbit"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=urlbit&theme=dracula&icon_color=F8D866" alt="project-svg"></a>
+<a href="https://github.com/Sunny-unik/node-auth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=sunny-unik&repo=node-auth&theme=dracula&icon_color=F8D866" alt="project-svg"></a>
 
 </div>
 </details>
