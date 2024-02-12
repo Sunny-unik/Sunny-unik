@@ -68,7 +68,7 @@
 <details>
 <summary>Github Trophies</summary>
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=sunny-unik&theme=onestar&title=Joined2020,Commits,PR,Repositories,Experience,Issues,Reviews)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=sunny-unik&theme=onestar&title=Joined2020,Commits,PR,Repositories,Experience,Issues,Reviews,MultipleLang)
 
 </details>
 <br/>
